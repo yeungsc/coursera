@@ -1,5 +1,4 @@
-#H1
-Stanford Machine Learning Course on Coursera.org
+# Stanford Machine Learning Course on Coursera.org
 
 
-https://www.coursera.org/learn/machine-learning/
+[Coursera Machine Learning](https://www.coursera.org/learn/machine-learning/)
